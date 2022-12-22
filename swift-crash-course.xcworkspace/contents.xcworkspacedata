@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Enumeration.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Structure.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Functions.playground">
+   </FileRef>
+   <FileRef
       location = "group:if_else.playground">
    </FileRef>
    <FileRef

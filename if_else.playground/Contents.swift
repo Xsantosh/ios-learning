@@ -19,9 +19,23 @@ if myName == "Santosh" {
     "You are wrong"
 }
 
-
+//logical &&
+//logical ||
 if myName == "Santosh" && myAge == 23 {
     "your name is \(myName) and your age is \(myAge)"
 } else {
     "You have  inserted wrong value"
 }
+
+if myName == "Santosh" || myAge == 23 {
+    "Either name is Santosh or Age is 23 or both"
+}
+
+
+if myName == "Santosh"
+    && myAge == 23
+    && yourName == "Bandar"
+    || yourAge == 24 {
+    "Ohh "
+}
+
